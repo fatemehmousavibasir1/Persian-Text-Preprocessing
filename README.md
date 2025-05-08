@@ -1,4 +1,4 @@
-# Persian Text Preprocessing and Reshaping
+# Persian Text Preprocessing
 
 ## Overview
 This script reshapes and processes Persian text, performs tokenization, removes unwanted symbols, and applies specific word transformations. It also handles bidirectional text display for accurate representation of Persian text in environments that don't naturally support right-to-left languages.
